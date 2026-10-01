@@ -32,7 +32,7 @@
       "repeat-delay": 1024,
       "messages": [
         "I'm a regular player",
-        "I hate ender ngas",
+        "I hate skeleton ngas",
         "I like to play Minecraft!"
       ]
     },
@@ -42,9 +42,9 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
