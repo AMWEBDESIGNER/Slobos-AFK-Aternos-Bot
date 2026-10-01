@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ExpSlave",
+    "username": "EXPSlave11",
     "password": "",
     "type": "offline"
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 1024,
       "messages": [
         "I'm a regular player",
-        "I hate skeleton ngas",
+        "I hate ender ngas",
         "I like to play Minecraft!"
       ]
     },
@@ -42,9 +42,9 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 4,
       "speed": 3000
     },
