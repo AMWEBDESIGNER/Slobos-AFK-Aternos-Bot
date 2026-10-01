@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "EXPSLave",
+    "username": "ExpSlave",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "sigmaboialphawolf.aternos.me",
     "port": 53850,
-    "version": "1.21.11",
-    "try-creative": false
+    "version": "1.21.1",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -27,12 +27,12 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 1024,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I hate ender ngas",
         "I like to play Minecraft!"
       ]
     },
@@ -42,18 +42,18 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
